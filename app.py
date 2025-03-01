@@ -8,7 +8,7 @@ import time
 import mediapipe as mp
 import re
 
-GOOGLE_API_KEY = 'AIzaSyBwJSQ4ubecDvV_tLY5cMHJGaMpG1EbUH0'
+GOOGLE_API_KEY = ''
 
 # Configure the Gemini API
 genai.configure(api_key=GOOGLE_API_KEY)
